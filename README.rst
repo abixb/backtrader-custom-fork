@@ -1,3 +1,5 @@
+Custom version of BACKTRADER -- forked from the official repo
+
 backtrader
 ==========
 
